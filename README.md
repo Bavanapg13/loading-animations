@@ -1,1 +1,1 @@
-# loading-animations and adjustable progress bar
+# loading-animations, adjustable progress bar and search bar
